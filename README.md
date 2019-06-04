@@ -1,5 +1,7 @@
 # Express Boilerplate!
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/thebinarypenguin/express-boilerplate.svg)](https://greenkeeper.io/)
+
 This is a boilerplate project used for starting new projects!
 
 ## Set up
